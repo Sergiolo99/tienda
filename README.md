@@ -1,5 +1,4 @@
-# tienda
-# Biblioteca
+# Tienda
 
 Esta aplicación es un pequeño gestor de biblioteca donde tanto usuarios como gestores pueden interactuar con los libros de una Base de Datos.
 
